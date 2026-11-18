@@ -1,0 +1,10 @@
+pandas
+matplotlib
+pyparsing
+jinja2
+nbconvert
+fastapi
+uvicorn[standard]
+flask
+openpyxl
+playwright

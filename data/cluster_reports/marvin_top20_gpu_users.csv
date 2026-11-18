@@ -1,0 +1,21 @@
+Cluster,Login,Proper Name,Account,TRES Name,Used
+marvin,bkostrze_hpc,Bartosz Kostrzewa,ag_hiskp_urbach,gres/gpu,10539778
+marvin,mholzel_hpc,Michael Hölzel,ag_ukb_ieo_hoelzel,gres/gpu,10300968
+marvin,nklugeco_hpc,Nicholas Kluge Corrêa,ag_cst_gabriel,gres/gpu,9383215
+marvin,tomar_hpc,Ritu Tomar,ag_mctc_bredow,gres/gpu,6157072
+marvin,jsuarezs_hpc,Javier Suarez Sucunza,ag_hiskp_urbach,gres/gpu,5656926
+marvin,smenzel_hpc,Stephan Menzel,ag_ukb_iii_schmidt,gres/gpu,4249476
+marvin,sambaran_hpc,Sambaran Banerjee,ag_aifa_kroupa,gres/gpu,3844895
+marvin,s6behood_hpc,Benedikt Hoodt,ag_giub_malenovsky,gres/gpu,3743698
+marvin,ypan_hpc,Yue Pan,ag_igg_stachniss,gres/gpu,3172974
+marvin,swasim_hpc,Syed Talal Wasim,ag_ifi_gall,gres/gpu,3065281
+marvin,s03msham_hpc,Mohamad Hakam Shams Eddin,ag_ifi_gall,gres/gpu,2811119
+marvin,s6lupetr_hpc,Lukas Jens Petri,ag_ukb_ikckp_schmidburgk,gres/gpu,2460160
+marvin,jyii_hpc,Jinhui Yi,ag_ifi_gall,gres/gpu,2290499
+marvin,s6caweni_hpc,Carlo Wenig,ag_ifg_memmesheimer,gres/gpu,1929914
+marvin,rmarcuzz_hpc,Rodrigo Marcuzzi,ag_igg_stachniss,gres/gpu,1849890
+marvin,hmalik_hpc,Harshita Malik,ag_mctc_bredow,gres/gpu,1833091
+marvin,emarks1_hpc,Elias Marks,ag_igg_stachniss,gres/gpu,1821206
+marvin,s6ludenn_hpc,Luis Denninger,ag_ifi_gall,gres/gpu,1723963
+marvin,s6jjwang_hpc,Jifeng Wang,ag_ifi_gall,gres/gpu,1640577
+marvin,jarruda_hpc,Jonas Arruda,ag_irumls_mircea,gres/gpu,1614454

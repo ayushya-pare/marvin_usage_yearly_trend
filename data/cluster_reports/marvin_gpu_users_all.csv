@@ -1,0 +1,495 @@
+Cluster,Login,Proper Name,Account,TRES Name,Used
+marvin,s6stjuet_hpc,Stefan Jütten,ag_mctc_bredow,gres/gpu,6
+marvin,sgrein_hpc,Stephan Grein,ag_irumls_pathirana,gres/gpu,0
+marvin,s65mtork_hpc,MohammadReza Torkamani,ag_aifa_nicola,gres/gpu,0
+marvin,bredow_hpc,Thomas Bredow,ag_mctc_bredow,gres/gpu,613863
+marvin,nklugeco_hpc,Nicholas Kluge Corrêa,ag_cst_gabriel,gres/gpu,9383215
+marvin,wreckien_hpc,Werner Reckien,ag_mctc_kirchner,gres/gpu,0
+marvin,tomar_hpc,Ritu Tomar,ag_mctc_bredow,gres/gpu,6157072
+marvin,jsimon2_hpc,Jenny Simon,ag_mctc_bredow,gres/gpu,1207093
+marvin,s6chselz_hpc,Christian Erik Selzer,ag_mctc_grimme,gres/gpu,0
+marvin,mholzel_hpc,Michael Hölzel,ag_ukb_ieo_hoelzel,gres/gpu,10300968
+marvin,dabdulli_hpc,Dinar Abdullin,ag_iptc_schiemann,gres/gpu,0
+marvin,bkostrze_hpc,Bartosz Kostrzewa,ag_hiskp_urbach,gres/gpu,10539778
+marvin,jsuarezs_hpc,Javier Suarez Sucunza,ag_hiskp_urbach,gres/gpu,5656926
+marvin,s6paludw_hpc,Paul Ludwig,ag_hiskp_urbach,gres/gpu,12986
+marvin,pzaby_hpc,Paul Zaby,ag_mctc_kirchner,gres/gpu,0
+marvin,smenzel_hpc,Stephan Menzel,ag_ukb_iii_schmidt,gres/gpu,4249476
+marvin,oregaieg_hpc,Omar Regaieg,ag_giub_malenovsky,gres/gpu,3028
+marvin,bray_hpc,Barshan Ray,ag_aifa_schober,gres/gpu,0
+marvin,luschuer_hpc,Lukas Schürmann,ag_ifi_mutzel,gres/gpu,0
+marvin,s6wewuuu_hpc,Wenjie Wu,ag_aifa_kroupa,gres/gpu,1153910
+marvin,jgorges_hpc,Johannes Gorges,ag_mctc_grimme,gres/gpu,0
+marvin,fabrand_hpc,Fabian Brand,hpca,gres/gpu,283712
+marvin,schober_hpc,Jennifer Schober,ag_aifa_schober,gres/gpu,0
+marvin,anicola_hpc,Andrina Nicola,ag_aifa_nicola,gres/gpu,0
+marvin,s6lupetr_hpc,Lukas Jens Petri,ag_ukb_ikckp_schmidburgk,gres/gpu,2460160
+marvin,tschramm_hpc,Tim Karl Schramm,ag_mctc_grimme,gres/gpu,0
+marvin,s76bkoca_hpc,Baris Kocana,ag_mctc_grimme,gres/gpu,0
+marvin,wittmann_hpc,Lukas Wittmann,ag_mctc_grimme,gres/gpu,651
+marvin,s6mnthom_hpc,Maximilian Thomas,ag_aifa_porciani,gres/gpu,0
+marvin,s03msham_hpc,Mohamad Hakam Shams Eddin,ag_ifi_gall,gres/gpu,2811119
+marvin,ypan_hpc,Yue Pan,ag_igg_stachniss,gres/gpu,3172974
+marvin,emiliord_hpc,Emilio Romano-Diaz,ag_aifa_porciani,gres/gpu,0
+marvin,sumang92_hpc,Suman Gare,ag_ukb_ieo_thurley,gres/gpu,0
+marvin,dgarg_hpc,Deepen Garg,ag_aifa_schober,gres/gpu,1075
+marvin,sambaran_hpc,Sambaran Banerjee,ag_aifa_kroupa,gres/gpu,3844895
+marvin,twang2_hpc,Tianqun Wang,ag_mctc_kirchner,gres/gpu,0
+marvin,rmmemm_hpc,Raoul-Martin Memmesheimer,ag_ifg_memmesheimer,gres/gpu,0
+marvin,jarruda_hpc,Jonas Arruda,ag_irumls_mircea,gres/gpu,1614454
+marvin,hmalik_hpc,Harshita Malik,ag_mctc_bredow,gres/gpu,1833091
+marvin,s6parsic_hpc,Petar Arsic,ag_lib_zmb,gres/gpu,1380426
+marvin,tomfroe_hpc,Tom Frömbgen,ag_mctc_kirchner,gres/gpu,0
+marvin,fpli_hpc,Fupeng Li,ag_igg_kusche,gres/gpu,0
+marvin,mdeberto_hpc,Maxime Debertolis,ag_pi_luitz,gres/gpu,0
+marvin,ipopova_hpc,Irina Popova,ag_ime_kuester,gres/gpu,0
+marvin,s6jjwang_hpc,Jifeng Wang,ag_ifi_gall,gres/gpu,1640577
+marvin,emarks1_hpc,Elias Marks,ag_igg_stachniss,gres/gpu,1821206
+marvin,s39sfati_hpc,Shiza Fatimah,ag_cst_gabriel,gres/gpu,1160788
+marvin,cpeiter_hpc,Clemens Peiter,ag_irumls_pathirana,gres/gpu,60
+marvin,jconradi_hpc,Jacobus Conradi,ag_ifi_driemel,gres/gpu,0
+marvin,jingenm1_hpc,Johannes Carl Maria Ingenmey,ag_mctc_kirchner,gres/gpu,0
+marvin,ogoekce_hpc,Ozgun Goekce,ag_ukb_kneg_goekce,gres/gpu,380042
+marvin,s6kadrys_hpc,Katrin Monika Drysch,ag_mctc_kirchner,gres/gpu,0
+marvin,jyii_hpc,Jinhui Yi,ag_ifi_gall,gres/gpu,2290499
+marvin,pbehtsis,Panagiotis Behtsis,hrzhpc,gres/gpu,0
+marvin,mgonzal1_hpc,Matias Gonzalez,ag_pi_luitz,gres/gpu,0
+marvin,ddoresic_hpc,Domagoj Doresic,ag_irumls_pathirana,gres/gpu,0
+marvin,swasim_hpc,Syed Talal Wasim,ag_ifi_gall,gres/gpu,3065281
+marvin,s6lavict_hpc,Luisa Victor,ag_ifi_bauckhage,gres/gpu,730318
+marvin,s27mhusa_hpc,Murtuza Husain,ag_igg_fluck,gres/gpu,1550667
+marvin,aha1_hpc,Andreas Hansen,ag_mctc_grimme,gres/gpu,0
+marvin,kfer1201,Khaoula Ferchichi,ag_biob_weigend,gres/gpu,0
+marvin,kfer1201,Khaoula Ferchichi,hrzhpc,gres/gpu,1
+marvin,tweissbe_hpc,Tobias Sebastian Weißberg,ag_ifi_bernard,gres/gpu,1071098
+marvin,yluo_hpc,Yanan Luo,ag_ifi_gall,gres/gpu,1361915
+marvin,fboecker,Florian Boecker,hrzhpc,gres/gpu,13
+marvin,jsteine1,Jan Steiner,hrzhpc,gres/gpu,97
+marvin,jsteine1,Jan Steiner,ag_brs_test,gres/gpu,0
+marvin,jsteine1,Jan Steiner,mmtestgroup_jan,gres/gpu,0
+marvin,kuckertz,Michael Kuckertz,hrzhpc,gres/gpu,0
+marvin,dbarbi,Dirk Barbi,hrzhpc,gres/gpu,0
+marvin,s6tijako_hpc,Timo Jakobs,ag_hiskp_urbach,gres/gpu,2410
+marvin,jfreyber_hpc,Joachim Freyberger,ag_ifs_freyberger,gres/gpu,0
+marvin,kfer1201,Khaoula Ferchichi,ag_ukb_kppp_schulte,gres/gpu,0
+marvin,s27mkova_hpc,Michael Kovac,ag_aifa_nicola,gres/gpu,0
+marvin,kfer1201,Khaoula Ferchichi,tmp_mattson_workshops,gres/gpu,0
+marvin,kuckertz,Michael Kuckertz,tmp_mattson_workshops,gres/gpu,16
+marvin,ksturm,Kai Sturm,hrzhpc,gres/gpu,0
+marvin,nkuebart_hpc,Kara Kuebart,ag_igw_burhop,gres/gpu,148656
+marvin,s72jferr_hpc,Jorge Ferrús Madera,ag_ifs_noack,gres/gpu,0
+marvin,kbuchmue_hpc,Kai Buchmüller,ag_mctc_kirchner,gres/gpu,9
+marvin,tsaala_hpc,Timo Saala,ag_pi_mschott,gres/gpu,1235711
+marvin,s7hegerd_hpc,Helena Gerdener,ag_igg_kusche,gres/gpu,0
+marvin,erosanow_hpc,Emil Otis Rosanowski,ag_hiskp_funcke,gres/gpu,2074
+marvin,rhelmke_ext,René Helmke,ag_ifi_martini,gres/gpu,0
+marvin,fabrand_hpc,Fabian Brand,ag_igsb_krawitz,gres/gpu,0
+marvin,nelcoudi_hpc,Nafie El Coudi El Amrani,ag_ifi_bernard,gres/gpu,171619
+marvin,aantweil_hpc,Antonia Sarah Maria Antweiler,ag_ifs_freyberger,gres/gpu,0
+marvin,s6emrosa_hpc,Emil Otis Rosanowski,ag_hiskp_funcke,gres/gpu,4861
+marvin,hageluek_hpc,Gregor Hagelueken,ag_isb_hagelueken,gres/gpu,509807
+marvin,s6jakrei_hpc,Janik Kreit,ag_hiskp_funcke,gres/gpu,813599
+marvin,s6dafabe_hpc,Daniel Faber,ag_ifi_mutzel,gres/gpu,0
+marvin,kmantri_hpc,Krishna Sri Ipsit Mantri,ag_ifi_laehner,gres/gpu,795061
+marvin,s67jkach_hpc,Jan Kachnowicz,ag_mctc_grimme,gres/gpu,0
+marvin,s6bjhoep_hpc,Björn Höppner,ag_ifs_freyberger,gres/gpu,0
+marvin,proetzer_hpc,Paul Rötzer,ag_ifi_bernard,gres/gpu,0
+marvin,snie_hpc,Shangrui Nie,ag_bit_flek,gres/gpu,464115
+marvin,jdoelz_hpc,Juergen Doelz,ag_ins_doelz,gres/gpu,0
+marvin,s6tiboeh_hpc,Tim Böhnert,ag_biob_weigend,gres/gpu,0
+marvin,tfroitz_hpc,Thomas Froitzheim,ag_mctc_grimme,gres/gpu,0
+marvin,s6bebaed_hpc,Benedikt Bädorf,ag_mctc_grimme,gres/gpu,0
+marvin,s6dmschu_hpc,Dominic Maurizio Schuh,ag_hiskp_funcke,gres/gpu,555401
+marvin,jtrost_ext,Johanna Trost,ag_biob_scabral,gres/gpu,0
+marvin,s94falmu_hpc,Farkhat Almukhamedov,ag_ifi_blum,gres/gpu,533939
+marvin,jsteine1,Jan Steiner,disabled,gres/gpu,0
+marvin,tikem_hpc,Tim Noah Kempchen,ag_ukb_ieo_hoelzel,gres/gpu,787905
+marvin,sschulz1_hpc,Stefan Michael Schulz,ag_ifi_hullin,gres/gpu,667191
+marvin,s6hesurm_hpc,Hendrik Surmann,ag_ifi_bennewitz,gres/gpu,287488
+marvin,vwieland_hpc,Vincent Wieland,ag_irumls_hasenauer,gres/gpu,0
+marvin,buness_hpc,Andreas Buness,ag_cuba,gres/gpu,218
+marvin,s52nbrit_hpc,Niko Britt,ag_cens_schultz,gres/gpu,0
+marvin,mebbed_hpc,Mohamed Ramzy Helmy Ibrahim Ebbed,ag_ifi_laehner,gres/gpu,316179
+marvin,s6maheld_hpc,Malena Sophie Held,ag_aifa_nicola,gres/gpu,0
+marvin,s6tastuc_hpc,Tarek Stuck,ag_ifi_roeglin,gres/gpu,0
+marvin,kbarbey_hpc,Kent Barbey,ag_aifa_schober,gres/gpu,0
+marvin,s45kaulb_hpc,Klaus Aulbach,ag_ifs_freyberger,gres/gpu,0
+marvin,s7lujend_hpc,Lukas Jendges,ag_igg_glaser,gres/gpu,0
+marvin,s6behood_hpc,Benedikt Hoodt,ag_giub_malenovsky,gres/gpu,3743698
+marvin,s3egbatb_hpc,Egshiglen Batbayar,ag_ifs_freyberger,gres/gpu,0
+marvin,s6chpetz_hpc,Christoph Michael Petzsch,ag_ifi_bernard,gres/gpu,343160
+marvin,corbin_hpc,Armin Corbin,ag_igg_kusche,gres/gpu,0
+marvin,s95wwang_hpc,Weikang Wang,ag_ifi_bernard,gres/gpu,333786
+marvin,ebahrami_hpc,Emad Bahrami,ag_ifi_gall,gres/gpu,601002
+marvin,vtoborek_hpc,Vanessa Toborek,ag_ifi_bauckhage,gres/gpu,329430
+marvin,s36jshem_hpc,Jared Shemonsky,ag_lib_zmb,gres/gpu,46889
+marvin,rmarcuzz_hpc,Rodrigo Marcuzzi,ag_igg_stachniss,gres/gpu,1849890
+marvin,s94zalek_hpc,Aleksei Zhuravlev,ag_ifi_laehner,gres/gpu,357394
+marvin,s63ajave_hpc,Ahmad Javed,ag_ifi_gall,gres/gpu,204944
+marvin,s6judenk_hpc,Julia-Christin Denke,ag_mctc_bredow,gres/gpu,46134
+marvin,s3jowebe_hpc,Johannes Weber,ag_iame_gaudecker,gres/gpu,0
+marvin,s6ludenn_hpc,Luis Denninger,ag_ifi_gall,gres/gpu,1723963
+marvin,fdavid_hpc,Friederike David,ag_ukb_ihg_forstner,gres/gpu,631
+marvin,s47ashok_hpc,Ahmed Mohamed Hafez Shokry,ag_ifi_bennewitz,gres/gpu,246663
+marvin,s6sokund_hpc,Sophie Leonie Kunde,ag_lib_zmb,gres/gpu,249544
+marvin,s57smokh_hpc,Sina Mokhtarzadeh Azar,ag_ifi_gall,gres/gpu,295518
+marvin,anegro_hpc,Alessio Negro,ag_hiskp_urbach,gres/gpu,0
+marvin,s37mfedo_hpc,Maria Fedorenko,ag_ifi_schultz,gres/gpu,156739
+marvin,adev_hpc,Ankur Dev,ag_aifa_bertoldi,gres/gpu,0
+marvin,ydawer_hpc,Yashna Dawer,ag_mctc_kirchner,gres/gpu,0
+marvin,s6elvonw_hpc,Elisabeth Grete von Wolff,ag_hiskp_funcke,gres/gpu,0
+marvin,s6tsrose_hpc,Thomas Rose,ag_mctc_grimme,gres/gpu,0
+marvin,s6kimikh_hpc,Mikhail Kirilin,ag_ins_burstedde,gres/gpu,0
+marvin,s6lueich_hpc,Luca Eichler,ag_ifi_bauckhage,gres/gpu,274091
+marvin,s6toalok_hpc,Toka Alokda,ag_aifa_porciani,gres/gpu,0
+marvin,okamboj_hpc,Ocima Kamboj,ag_ukb_ihph_papan,gres/gpu,133924
+marvin,szbinden_hpc,Stefanie Zbinden,ag_mi_gardam,gres/gpu,0
+marvin,lcasucci_hpc,Lucas Casuccio,ag_giub_malenovsky,gres/gpu,846936
+marvin,hbrandt_hpc,Hannes Brandt,ag_ins_burstedde,gres/gpu,0
+marvin,calvarez_hpc,Carolina Alvarez,ag_irumls_hasenauer,gres/gpu,0
+marvin,s3nobusc_hpc,Nico Buschhorn,ag_ifs_breunig,gres/gpu,0
+marvin,s89dklei_hpc,David Eliah Klein,ag_lib_zmb,gres/gpu,295269
+marvin,s75ywu_hpc,Yibin Wu,ag_igg_klingbeil,gres/gpu,145338
+marvin,nschmid_hpc,Nina Schmid,ag_irumls_mircea,gres/gpu,0
+marvin,debert_hpc,David Ebert,ag_ins_doelz,gres/gpu,0
+marvin,lfrancon_hpc,Lucas Nunes,ag_igg_stachniss,gres/gpu,894077
+marvin,s6alkuhn_hpc,Allan Jean Kuhn,ag_ins_doelz,gres/gpu,0
+marvin,s6luhugg_hpc,Luzie Anna Hugger,ag_ins_doelz,gres/gpu,0
+marvin,aortizgo_hpc,Antonio de Jesus Ortiz Gonzalez,ag_irumls_mircea,gres/gpu,98329
+marvin,s85hpan_hpc,Huiqi Christina Pan,ag_giub_klaus,gres/gpu,0
+marvin,talawath_hpc,Tharindu Madhusankha Alawathurage,ag_ukb_ihg_ludwig,gres/gpu,398455
+marvin,mayromlo_hpc,Mohammadreza Ayromlou,ag_aifa_reiprich,gres/gpu,0
+marvin,s24pjoha_hpc,Paul Johannssen,ag_ins_rump,gres/gpu,67802
+marvin,s6chneug_hpc,Christopher Neugebauer,hpca,gres/gpu,0
+marvin,mpeterse_hpc,Malte Petersen,hpca,gres/gpu,0
+marvin,s3anwarn_hpc,Antoine Thomas Warns,ag_ifi_meier,gres/gpu,82089
+marvin,hzhou_hpc,Hongyu Zhou,ag_ifi_laehner,gres/gpu,79633
+marvin,s6aapoll_hpc,Alina Pollehn,ag_ifi_klein,gres/gpu,150744
+marvin,jmai_hpc,Jan Frederik Jonas Florian Mai,ag_bit_flek,gres/gpu,159356
+marvin,s6mavasi_hpc,Maria-Anna Vasile,ag_biob_weigend,gres/gpu,0
+marvin,s92xzhon_hpc,Xingguang Zhong,ag_igg_stachniss,gres/gpu,141023
+marvin,s6fehart_hpc,Felix Hartkopf,ag_ifi_meier,gres/gpu,713944
+marvin,kmanda_hpc,Krishna Sai Lakshmi Gayatri Manda,hpca,gres/gpu,3446
+marvin,s6fefrec_hpc,Felicitas Freche,ag_aifa_nicola,gres/gpu,868
+marvin,s87thafe_hpc,Torben Haferkamp,ag_ifs_noack,gres/gpu,0
+marvin,s6nikerk_hpc,Niklas Kerkfeld,ag_igw_burhop,gres/gpu,44666
+marvin,s6jsherz_hpc,Julius Herz,ag_pi_luitz,gres/gpu,0
+marvin,nschiefe_hpc,Natalie Schieferstein,ag_ifg_memmesheimer,gres/gpu,0
+marvin,s6shdeva_hpc,Shruthi Devaraj,ag_ifi_meier,gres/gpu,15490
+marvin,s28zabed_hpc,Zain Ul Abedin,ag_bit_flek,gres/gpu,58503
+marvin,zhlan_hpc,Lan Zhang,ag_igg_kusche,gres/gpu,0
+marvin,s66alang_hpc,Adrian Lange,ag_inres_knief,gres/gpu,0
+marvin,kroenert_hpc,Philipp Krönert,ag_hiskp_beck,gres/gpu,0
+marvin,s6caweni_hpc,Carlo Wenig,ag_ifg_memmesheimer,gres/gpu,1929914
+marvin,s55fjabb_hpc,Fatemeh Jabbari,ag_ifi_gall,gres/gpu,206737
+marvin,apare_hpc,Ayushya Pare,hpca,gres/gpu,9553
+marvin,bpregler_hpc,Barbara Elisabeth Pregler,ag_ukb_nc_schneider,gres/gpu,10643
+marvin,fselgert_hpc,Felix Selgert,ag_igw_burhop,gres/gpu,63535
+marvin,pmutzel_hpc,Petra Mutzel,ag_ifi_mutzel,gres/gpu,0
+marvin,dkaczer_hpc,David Kaczér,ag_bit_flek,gres/gpu,102437
+marvin,mmalezic_hpc,Marko Maležič,ag_hiskp_urbach,gres/gpu,0
+marvin,s6lesiem_hpc,Lena Katharina Siemer,ag_mi_schroeer,gres/gpu,0
+marvin,mvanhult_hpc,Marco van Hulten,hpca,gres/gpu,0
+marvin,sazirar_hpc,Sami Azirar,ag_ifi_blum,gres/gpu,100770
+marvin,s16yshaw_hpc,Yousef Ahmed Mahmoud Elsayed Shawki,ag_ukb_isb_nowak,gres/gpu,233151
+marvin,jamabr_hpc,Jan Martin Brockmann,ag_igg_glaser,gres/gpu,0
+marvin,s6chneug_hpc,Christopher Neugebauer,tmp_mattson_workshops,gres/gpu,24
+marvin,jamabr_hpc,Jan Martin Brockmann,tmp_mattson_workshops,gres/gpu,2
+marvin,pmutzel_hpc,Petra Mutzel,tmp_mattson_workshops,gres/gpu,1
+marvin,mwolter1_hpc,Moritz Wolter,hpca,gres/gpu,0
+marvin,mwolter1_hpc,Moritz Wolter,tmp_mattson_workshops,gres/gpu,0
+marvin,pmutzel_hpc,Petra Mutzel,hpca,gres/gpu,0
+marvin,mvanhult_hpc,Marco van Hulten,tmp_mattson_workshops,gres/gpu,10
+marvin,dcaviede_ext,Daniel Caviedes-Voullieme,hpca,gres/gpu,0
+marvin,jamabr_hpc,Jan Martin Brockmann,hpca,gres/gpu,0
+marvin,lveerama_hpc,Lokesh Veeramacheneni,hpca,gres/gpu,0
+marvin,prigor_ext,Paul Rigor,hpca,gres/gpu,0
+marvin,s33zganj_hpc,Zahra Ganji,hpca,gres/gpu,0
+marvin,mgisti_hpc,Martina Gisti,ag_pi_luitz,gres/gpu,0
+marvin,s6cnscul_hpc,Christian Schultze,ag_igw_burhop,gres/gpu,57758
+marvin,dcao_hpc,Dongliang Cao,ag_ifi_bernard,gres/gpu,86895
+marvin,aallahha_hpc,Anas Al-lahham,ag_ifi_gall,gres/gpu,216862
+marvin,kluk_hpc,Lukas Alexander Kiwitz,ag_ukb_ieo_thurley,gres/gpu,50688
+marvin,jmuelle6_hpc,Jan Uwe Müller,ag_ifi_klein,gres/gpu,268752
+marvin,s4omahme_hpc,Omar Ahmed,ag_cens_schultz,gres/gpu,0
+marvin,s16adave_hpc,Asit Dave,ag_aifa_porciani,gres/gpu,0
+marvin,sroe_hpc,Sinah Isabel Röttgen,ag_ukb_kpsb_sommerauer,gres/gpu,0
+marvin,marweber_hpc,Mareike Baer,ag_lmm_lipski,gres/gpu,349
+marvin,s6mlhinz_hpc,Manuel Hinz,ag_ifi_bauckhage,gres/gpu,7645
+marvin,epallott_hpc,Enrico Pallotta,ag_ifi_gall,gres/gpu,155994
+marvin,ssingh_hpc,Simran Singh,ag_hiskp_funcke,gres/gpu,83968
+marvin,hkuang_hpc,Haofei Kuang,ag_igg_stachniss,gres/gpu,57164
+marvin,gmann_hpc,GENIVIKA MANN,ag_ifi_demidova,gres/gpu,183678
+marvin,jgedicke_hpc,Joscha Gedicke,ag_ins_gedicke,gres/gpu,0
+marvin,xlli02_hpc,Xiaolong Li,ag_igg_kusche,gres/gpu,0
+marvin,abdelmal_hpc,Abanoub Abdelmalak,ag_igg_fluck,gres/gpu,84783
+marvin,srawat_hpc,Shivam Rawat,ag_bit_flek,gres/gpu,277882
+marvin,s67abobk_hpc,Artemii Bobkov,ag_ifi_blum,gres/gpu,40908
+marvin,yala_hpc,Yagmur Caglar,ag_bit_flek,gres/gpu,47344
+marvin,s6elpaef_hpc,Elena Päffgen,ag_ifgeo_lesters,gres/gpu,0
+marvin,saltrogg_hpc,Simon Altrogge,ag_ifg_memmesheimer,gres/gpu,6
+marvin,s6jumeff_hpc,Julian Meffert,ag_ifi_mutzel,gres/gpu,0
+marvin,s24pjoha_hpc,Paul Johannssen,ag_irumls_pathirana,gres/gpu,303454
+marvin,s08fbaba_hpc,Fatemeh Babaei,ag_giub_klaus,gres/gpu,0
+marvin,mstaffeh_hpc,Milan Staffehl,ag_aifa_porciani,gres/gpu,0
+marvin,s6lkschl_hpc,Luisa Katharina Schlageter,ag_ifi_klein,gres/gpu,44578
+marvin,sbhansal_ext,Sneha Bhansali,ag_lib_zmb,gres/gpu,33665
+marvin,bertolin_hpc,Antoni Bertolin Monferrer,ag_ukb_ieecr_tchumatchenko,gres/gpu,0
+marvin,s6nidich_hpc,Nico Dichter,ag_hiskp_funcke,gres/gpu,452
+marvin,cmayer_hpc,Christoph Mayer,ag_lib_zmb,gres/gpu,2308
+marvin,s78mmaue_hpc,Maximilian Mauel,ag_ifi_bauckhage,gres/gpu,84117
+marvin,s72aabol_hpc,Ayda Abolhassani,ag_ukb_kppp_schulte,gres/gpu,0
+marvin,s77sraou_hpc,Sina Raoufi,ag_ifi_gall,gres/gpu,27257
+marvin,qliu_hpc,Qian Liu,ag_ukb_kneg_goekce,gres/gpu,4661
+marvin,asen_hpc,Aniket Sen,ag_hiskp_urbach,gres/gpu,2346
+marvin,abulgare_hpc,Andrea Bulgarelli,ag_hiskp_funcke,gres/gpu,26539
+marvin,s6rbmuel_hpc,Robin Müller,ag_ukb_ieo_thurley,gres/gpu,0
+marvin,s6jnrogg_hpc,Jan Rogge,ag_ifi_blum,gres/gpu,51105
+marvin,s6chhoel_hpc,,ag_mctc_grimme,gres/gpu,0
+marvin,jpatel1_hpc,Jeel Jitendrabhai Patel,hpca,gres/gpu,0
+marvin,mriverav_hpc,Marco Antonio Rivera Villacorta,ag_igg_kusche,gres/gpu,0
+marvin,s54rjava_hpc,Reihaneh Javadi,ag_aifa_nicola,gres/gpu,0
+marvin,s74rmeno_hpc,Rohan Menon,ag_ukb_ieecr_tchumatchenko,gres/gpu,45215
+marvin,s6fezhao_hpc,Fengyi Zhao,ag_ifi_klein,gres/gpu,37973
+marvin,s6cewind_hpc,Cedric Wind,ag_iap_hofferberth,gres/gpu,0
+marvin,s94sraja_hpc,Sharan Rajakumar,ag_ukb_kneg_goekce,gres/gpu,0
+marvin,ychong_hpc,Yue Linn Chong,ag_igg_stachniss,gres/gpu,101193
+marvin,ulziinar_hpc,Ulzii-Utas Narantsatsralt,ag_ukb_ieecr_tchumatchenko,gres/gpu,0
+marvin,yala_hpc,Yagmur Caglar,ag_ifi_schultz,gres/gpu,20529
+marvin,swierzyb_hpc,Ben Swierzy,ag_ifi_meier,gres/gpu,2
+marvin,s6bnweih_hpc,Ben Nam-Soo Weihrauch,ag_pi_mschott,gres/gpu,40177
+marvin,s6llkess_hpc,Lisa Alexandra Keßler,ag_ifi_klein,gres/gpu,17797
+marvin,fabdulla_hpc,Faruque Abdullah,ag_igg_kusche,gres/gpu,0
+marvin,jaicher_hpc,Jasmin Aicher,ag_ukb_irnb_bruestle,gres/gpu,0
+marvin,s6jeschy_hpc,Jerome Schyns,ag_ifgeo_renkl,gres/gpu,0
+marvin,s76mfroe_hpc,Moritz Froese,ag_ifi_laehner,gres/gpu,31969
+marvin,mlackman_hpc,Maria Sophia Lackmann,ag_inres_mason,gres/gpu,1
+marvin,s6yczhan_hpc,Yuchi Zhang,ag_ifi_blum,gres/gpu,15463
+marvin,cmielke_hpc,Christian Mielke,ag_igg_kusche,gres/gpu,0
+marvin,mmarkwal_hpc,Marco Markwald,ag_ifi_demidova,gres/gpu,2
+marvin,s6stkemm_hpc,Stefan Kemmerich,ag_iac_lu,gres/gpu,0
+marvin,s6anhoep_hpc,Anna Höpfner,ag_ifi_meier,gres/gpu,0
+marvin,friede_hpc,Marvin Friede,ag_mctc_grimme,gres/gpu,21936
+marvin,dhana_hpc,Dhanakumaresh Subramani,ag_ukb_boster,gres/gpu,203794
+marvin,s6fegoeh_hpc,Felix Göhde,ag_ifi_blum,gres/gpu,13098
+marvin,s6kivolm_hpc,Kilian Benedikt Volmer,ag_irumls_pathirana,gres/gpu,0
+marvin,fxie_hpc,Fujing Xie,ag_ifi_blum,gres/gpu,22437
+marvin,lmoske_hpc,Leonhard Moske,ag_pi_luitz,gres/gpu,0
+marvin,s6xgwang_hpc,Xinghong Wang,ag_bit_sifa,gres/gpu,11404
+marvin,kper_hpc,Katrin Perez Anderson,ag_ukb_kneg_goekce,gres/gpu,13844
+marvin,s6toweis_hpc,Tobias Sebastian Weißberg,ag_ifi_bernard,gres/gpu,11931
+marvin,s72abrad_hpc,Angelo Brade,ag_hiskp_urbach,gres/gpu,0
+marvin,nesic_hpc,Svetozar Nesic,ag_cuba,gres/gpu,0
+marvin,fboecker,Florian Boecker,tmp_snakemake_workshop,gres/gpu,0
+marvin,jsteine1,Jan Steiner,tmp_hpca_workshop,gres/gpu,0
+marvin,jsteine1,Jan Steiner,tmp_snakemake_workshop,gres/gpu,0
+marvin,kfer1201,Khaoula Ferchichi,tmp_snakemake_workshop,gres/gpu,0
+marvin,cglaser_hpc,Clarissa Glaser,ag_giub_klaus,gres/gpu,0
+marvin,s82acast_hpc,Ana Cristina Castro Lopez,ag_lib_zmb,gres/gpu,30909
+marvin,s59efara_hpc,Elyas Farah,ag_aifa_nicola,gres/gpu,0
+marvin,mrichter_hpc,Moritz Richter,ag_irumls_hasenauer,gres/gpu,0
+marvin,asen_hpc,Aniket Sen,ag_cst_gabriel,gres/gpu,540
+marvin,fboecker,Florian Boecker,tmp_hpca_workshop,gres/gpu,0
+marvin,s6mahuth_hpc,Manuel Huth,ag_irumls_hasenauer,gres/gpu,1
+marvin,seifnerp_hpc,Patrick Seifner,ag_ifi_bauckhage,gres/gpu,13183
+marvin,s98jschn_hpc,Joanna Schnorr,ag_ukb_ieo_thurley,gres/gpu,0
+marvin,aeggemei_hpc,Alexander Eggemeier,ag_aifa_porciani,gres/gpu,247
+marvin,itouati_hpc,Iman Touati,ag_ukb_ihg_ludwig,gres/gpu,0
+marvin,gabrielm_hpc,Markus Gabriel,ag_cst_gabriel,gres/gpu,0
+marvin,cc-slurm-adapter,cc slurm-adapter,root,gres/gpu,0
+marvin,s19ehein_hpc,Emilia Heinrichs,ag_lib_zmb,gres/gpu,15784
+marvin,cnoack_hpc,Claudia Noack,ag_ifs_noack,gres/gpu,0
+marvin,kbaweja_hpc,Kriti Baweja,ag_pi_luitz,gres/gpu,0
+marvin,s6jnvoel_hpc,Julian Völlmecke,tmp_hpca_workshop,gres/gpu,0
+marvin,kmanda_hpc,Krishna Sai Lakshmi Gayatri Manda,tmp_hpca_workshop,gres/gpu,0
+marvin,s52lwoll_hpc,Lennox Wollenweber,ag_ukb_immei_lukacs-kornek,gres/gpu,31448
+marvin,mpeterse_hpc,Malte Petersen,ag_igsb_krawitz,gres/gpu,0
+marvin,s87mlath_hpc,Michelle Latham,ag_ukb_nc_schneider,gres/gpu,11699
+marvin,floseiff_hpc,Florian Seiffarth,ag_ifi_bauckhage,gres/gpu,0
+marvin,s45jmeij_hpc,Jente Meijer,ag_ukb_kppp_schulte,gres/gpu,0
+marvin,s19kjams_hpc,kiavash jamshidi,ag_ifi_blum,gres/gpu,36320
+marvin,s6julitz_hpc,Julian Litz,ag_ins_gedicke,gres/gpu,36
+marvin,plemp_hpc,Pauline Lemp,ag_iac_lu,gres/gpu,0
+marvin,darios_hpc,Dario Sannino,ag_ukb_ieecr_tchumatchenko,gres/gpu,11079
+marvin,sshi_hpc,Shenwei Shi,ag_ipt_wang,gres/gpu,14475
+marvin,s13dpeit_hpc,David Peitz,tmp_hpca_workshop,gres/gpu,0
+marvin,hega_hpc,Melanie Hega,ag_ukb_ikckp_behrendt,gres/gpu,0
+marvin,hcramer1_hpc,Hanna Hinrika Cramer,ag_iac_lu,gres/gpu,0
+marvin,s6gehueb_hpc,Gerrit Hübsch,ag_ifi_laehner,gres/gpu,9719
+marvin,cheng_hpc,Yu Chen Cheng,ag_ukb_iphy_kadow,gres/gpu,0
+marvin,s93jbudd_hpc,Julian Budde,ag_ifs_freyberger,gres/gpu,0
+marvin,s94sburf_hpc,Sebastian Burfeid,ag_ifi_meier,gres/gpu,15410
+marvin,s6thgase_hpc,Thomas Gasevic,ag_mctc_grimme,gres/gpu,0
+marvin,yann_hpc,Yan Naing Win,ag_inres_hochholdinger,gres/gpu,0
+marvin,s6vavonb_hpc,Valentin Johann Albrecht Bernd von Bornhaupt,ag_ifi_schultz,gres/gpu,58724
+marvin,s77amoha_hpc,Al-Baraa Mohammed,tmp_hpca_workshop,gres/gpu,0
+marvin,s6jubist_hpc,Justus Bisten,ag_ifi_schultz,gres/gpu,47420
+marvin,yliu2_hpc,Yuhong Liu,ag_irumls_pathirana,gres/gpu,0
+marvin,s27cmuen_hpc,Carla Münnich,ag_ifi_klein,gres/gpu,6029
+marvin,s25fhajd_hpc,Faris Hajdarpasic,disabled,gres/gpu,5131
+marvin,mhilger,Markus Hilger,hrzhpc,gres/gpu,0
+marvin,schaki_ext,Subarna Chaki,ag_aifa_nicola,gres/gpu,5791
+marvin,s6nikasp_hpc,Ninian Kaspers,tmp_hpca_workshop,gres/gpu,0
+marvin,s95pmate_hpc,Pablo Mateo,tmp_hpca_workshop,gres/gpu,0
+marvin,sebelin2_hpc,Ville Sebastian Olsson,ag_cens_schultz,gres/gpu,0
+marvin,s6maimme_hpc,Marvin Jonas Immesberger,ag_iame_gaudecker,gres/gpu,1660
+marvin,ykruse_hpc,Yannic Kruse,ag_pi_foerste,gres/gpu,0
+marvin,rogawa_hpc,Ryo Ogawa,ag_inres_cord,gres/gpu,0
+marvin,s6fyoste_hpc,Fynn Osterfeld,ag_ifi_mutzel,gres/gpu,0
+marvin,tbergman_hpc,Tom Bergmann,ag_iac_lu,gres/gpu,0
+marvin,s6erceva_hpc,Erika Cevallos Dupuis,ag_lib_zmb,gres/gpu,1473
+marvin,s6sagerm_hpc,Samuel Germer,ag_iap_hofferberth,gres/gpu,0
+marvin,s6arbroj_hpc,Arbri Brojka,ag_ifi_blum,gres/gpu,5226
+marvin,s25fhajd_hpc,Faris Hajdarpasic,ag_ifi_blum,gres/gpu,2510
+marvin,jdietl_hpc,Jakob Dietl,ag_aifa_reiprich,gres/gpu,2638
+marvin,s6febend_hpc,Felix Bender,ag_ukb_ikckp_hartmann,gres/gpu,1375
+marvin,sbera_hpc,Sudip Kumar Bera,ag_iac_lu,gres/gpu,0
+marvin,s6jatorp_hpc,Jane Torp,ag_isb_geyer,gres/gpu,2610
+marvin,s28mschu_hpc,Miriam Schuster,ag_inres_cord,gres/gpu,0
+marvin,s25mdeyl_hpc,Mohammad Mehdi Deylamipour,ag_ifi_blum,gres/gpu,6995
+marvin,dcorvino_hpc,Dillon Corvino,ag_iei_abdullah,gres/gpu,0
+marvin,s77aesma_hpc,Amir Esmaeili,ag_ifi_blum,gres/gpu,2035
+marvin,mbak1_hpc,Mostafa Bakhshi,ag_ukb_ana_clarner,gres/gpu,0
+marvin,anitschk_hpc,Annika Nitschke,ag_igg_kusche,gres/gpu,0
+marvin,s94hohlm_hpc,Henning Christian Ohlmeyer,tmp_hpca_workshop,gres/gpu,0
+marvin,zabdul_hpc,Zeinab Abdullah,ag_iei_abdullah,gres/gpu,6569
+marvin,s06mtahe_hpc,Moein Taherkhani,ag_ifi_blum,gres/gpu,965
+marvin,s94pjuen_hpc,Paul Jünger,ag_ifi_roeglin,gres/gpu,0
+marvin,cmeester_ext,Christian Meesters,tmp_snakemake_workshop,gres/gpu,0
+marvin,dluitz_hpc,David Luitz,ag_pi_luitz,gres/gpu,0
+marvin,sharanr_hpc,Sharan Rajakumar,ag_ukb_kneg_goekce,gres/gpu,0
+marvin,lguo_hpc,Li Guo,ag_inres_hochholdinger,gres/gpu,0
+marvin,ylin_hpc,Yu-Yu Lin,ag_cuba,gres/gpu,0
+marvin,s86ckabo_hpc,Cem Bugra Kaboglu,ag_ukb_kneg_goekce,gres/gpu,86
+marvin,s82gfern_hpc,Gregorius Fernando,ag_limes_schlitzer,gres/gpu,0
+marvin,s24nasgh_hpc,Niloufar Asghari,ag_ifi_blum,gres/gpu,1027
+marvin,s96jmoeh_hpc,Jan Möhring,ag_lib_zmb,gres/gpu,0
+marvin,s7krviel_hpc,Kristin Vielberg,ag_igg_kusche,gres/gpu,0
+marvin,s6jagerh_hpc,Jan Gerhartz,ag_ukb_isb_nowak,gres/gpu,2520
+marvin,vsadirij_hpc,Vahid Sadiri Javadi,ag_bit_flek,gres/gpu,1075
+marvin,s03sgule_hpc,Sinem Bilge Güler,ag_ifi_bauckhage,gres/gpu,813
+marvin,root,root,root,gres/gpu,0
+marvin,lwiesman_hpc,Lucia Maren Wiesmann,ag_ukb_ihg_forstner,gres/gpu,0
+marvin,yxua_hpc,You Xuan,ag_giub_geiss,gres/gpu,499
+marvin,cgoncalv_hpc,Clara Oliva Goncalves Bazzo,ag_inres_cord,gres/gpu,0
+marvin,s6lawagn_hpc,Luca Johannes Wagner,ag_hiskp_funcke,gres/gpu,447
+marvin,s28oelse_hpc,OMAR TAREK ELSAYED RAGHEB ABDELHAMED ELSEBAEY,tmp_hpca_workshop,gres/gpu,0
+marvin,s95smahm_hpc,Shima Mahmoudi,ag_inres_mason,gres/gpu,0
+marvin,hsuleman_hpc,Hamid Suleman,ag_ifi_gall,gres/gpu,1541
+marvin,mkhaled_brs,Mohammed Khaled,ag_brs_test,gres/gpu,34
+marvin,fischerl_hpc,Lea Fischer,ag_ukb_kppp_schulte,gres/gpu,0
+marvin,acotelhe_hpc,Auden Cote-LHeureux,ag_iame_stenhammar,gres/gpu,0
+marvin,ugoekay_hpc,Uzay Gökay,ag_caian_bach,gres/gpu,2485
+marvin,s6kokoma_hpc,Komal Kotra,ag_lib_zmb,gres/gpu,501
+marvin,dviertel_hpc,David Viertel,ag_igg_stachniss,gres/gpu,559
+marvin,askitas_hpc,Nikolaos Askitas,ag_iame_zimmermann,gres/gpu,4
+marvin,mmatthes_hpc,Michaela Matthes,ag_inres_hochholdinger,gres/gpu,0
+marvin,kq010473_hpc,Ching-Huai Chen,ag_ifi_blum,gres/gpu,1052
+marvin,kdey_hpc,Krishnendu Dey,ag_iac_lu,gres/gpu,0
+marvin,cwer1_hpc,Carlos Wert Carvajal,ag_ukb_ieecr_tchumatchenko,gres/gpu,486
+marvin,rguo_hpc,Ruoyu Guo,ag_ifi_rose,gres/gpu,1702
+marvin,ggardam_hpc,Giles Gardam,ag_mi_gardam,gres/gpu,0
+marvin,s4jorosa_hpc,Josefine Rosar,ag_ukb_kppp_schulte,gres/gpu,0
+marvin,s6svdude_hpc,Svenja Dudek,ag_ukb_ikckp_hartmann,gres/gpu,354
+marvin,lmuelle8_hpc,Ludwig Müller,ag_iap_hofferberth,gres/gpu,0
+marvin,sschmid4_hpc,Svetlana Schmidt,ag_bit_sifa,gres/gpu,368
+marvin,gnardini_hpc,Giulia Nardini,ag_igg_stachniss,gres/gpu,354
+marvin,jnba_hpc,Julian Nick Bauer,ag_inres_luedeling,gres/gpu,0
+marvin,kshank2s_hpc,Kavya Shankar,ag_ifi_schultz,gres/gpu,163
+marvin,s6lelaus_hpc,Leon Luca Lausberg,ag_ifi_meier,gres/gpu,0
+marvin,jlt121_hpc,Janis Lisa Transfeld,ag_ukb_kppp_schulte,gres/gpu,0
+marvin,s58rreis_hpc,Rita Reis,ag_aifa_porciani,gres/gpu,0
+marvin,kshank2s_hpc,Kavya Shankar,ag_ifi_blum,gres/gpu,144
+marvin,s6clenge_hpc,Clemens Engelhardt,ag_ifg_memmesheimer,gres/gpu,0
+marvin,gtrehan_hpc,Gervit Kumar Trehan,ag_aifa_porciani,gres/gpu,0
+marvin,itaxis_hpc,Ina Taxis,ag_ifi_laehner,gres/gpu,349
+marvin,ult10b_hpc,Ernst Tholen,ag_itw_tholen,gres/gpu,0
+marvin,s78pdafl_hpc,Periklis Daflos,ag_iame_stenhammar,gres/gpu,65
+marvin,ricardo_hpc,Esteban Castillo,tmp_hpca_workshop,gres/gpu,0
+marvin,s6nesims_hpc,Nebi Simsek,ag_ifs_freyberger,gres/gpu,0
+marvin,tjayas_hpc,Tanuja Jayas,ag_ukb_cciai_vollmuth,gres/gpu,391
+marvin,ttran_hpc,Minh Tran,ag_limes_kiermaier,gres/gpu,0
+marvin,kilarski_hpc,Laura Luisa Kilarski,ag_ukb_kppp_schulte,gres/gpu,0
+marvin,knicoli_hpc,Kim Andrea Nicoli,ag_hiskp_funcke,gres/gpu,229
+marvin,gkrauss_hpc,Gunther Krauss,ag_inres_gaiser,gres/gpu,37
+marvin,s6paguem_hpc,Patrik Gümpel,ag_ifi_gall,gres/gpu,0
+marvin,gkrauss_hpc,Gunther Krauss,tmp_mattson_workshops,gres/gpu,17
+marvin,rschregl_ext,,tmp_mattson_workshops,gres/gpu,16
+marvin,mmalezic_hpc,Marko Maležič,tmp_mattson_workshops,gres/gpu,11
+marvin,s6lumeye_hpc,,tmp_mattson_workshops,gres/gpu,11
+marvin,floseiff_hpc,Florian Seiffarth,tmp_mattson_workshops,gres/gpu,10
+marvin,s6chgros_hpc,,tmp_mattson_workshops,gres/gpu,11
+marvin,s24jlenn_hpc,Jonathan Lennartz,tmp_mattson_workshops,gres/gpu,9
+marvin,akatbash_ext,,tmp_mattson_workshops,gres/gpu,8
+marvin,pschauer_hpc,Pauline Schauerte,tmp_mattson_workshops,gres/gpu,8
+marvin,seifnerp_hpc,Patrick Seifner,tmp_mattson_workshops,gres/gpu,6
+marvin,anegro_hpc,Alessio Negro,tmp_mattson_workshops,gres/gpu,5
+marvin,s6nidich_hpc,Nico Dichter,tmp_mattson_workshops,gres/gpu,7
+marvin,friede_hpc,Marvin Friede,tmp_mattson_workshops,gres/gpu,0
+marvin,hsuleman_hpc,Hamid Suleman,tmp_mattson_workshops,gres/gpu,0
+marvin,jsauer1_hpc,,tmp_mattson_workshops,gres/gpu,0
+marvin,mschneid_ext,,tmp_mattson_workshops,gres/gpu,0
+marvin,s28ktiwa_hpc,,tmp_mattson_workshops,gres/gpu,0
+marvin,sgrein_hpc,Stephan Grein,tmp_mattson_workshops,gres/gpu,0
+marvin,ssingh_hpc,Simran Singh,tmp_mattson_workshops,gres/gpu,0
+marvin,tmattson_ext,,tmp_mattson_workshops,gres/gpu,0
+marvin,tspenke_ext,,tmp_mattson_workshops,gres/gpu,0
+marvin,ttran_hpc,Minh Tran,tmp_mattson_workshops,gres/gpu,0
+marvin,s98ybai_hpc,Yinglun Bai,ag_igg_kusche,gres/gpu,0
+marvin,xhuang1_hpc,Xuying Huang,ag_ifi_bennewitz,gres/gpu,22
+marvin,gwahl_hpc,Peter Wahl,ag_pi_wahl,gres/gpu,26
+marvin,s6jakani_hpc,Jasper Kania,ag_irumls_pathirana,gres/gpu,0
+marvin,s6jugamp_hpc,Julia Gamper,ag_iap_hofferberth,gres/gpu,0
+marvin,soezsoy_hpc,Serdar Özsoy,ag_ifi_gall,gres/gpu,31
+marvin,bialas_hpc,Ole Bialas,ag_ukb_iphy_kadow,gres/gpu,4
+marvin,s02aboeg_hpc,Amanda Boegysanto,ag_ukb_kppp_schulte,gres/gpu,0
+marvin,bursted_hpc,Carsten Burstedde,ag_ins_burstedde,gres/gpu,0
+marvin,ltheissi_hpc,Lukas Theißinger,ag_ifi_bauckhage,gres/gpu,9
+marvin,bkostrze_hpc,Bartosz Kostrzewa,hpca,gres/gpu,8
+marvin,kkotra_hpc,Komal Kotra,ag_ukb_kpsb_sommerauer,gres/gpu,0
+marvin,smarx2_hpc,Silvio Marx,ag_inres_cord,gres/gpu,0
+marvin,yfruchte_hpc,Jonathan Fruchter,ag_mi_gardam,gres/gpu,0
+marvin,lboerger_hpc,Lara Börger,ag_igg_schindelegger,gres/gpu,0
+marvin,tkaya_hpc,Tugberk Kaya,ag_ukb_kneg_goekce,gres/gpu,0
+marvin,psasse_hpc,Philipp Sasse,ag_ukb_iphy_sasse,gres/gpu,0
+marvin,mweigand_hpc,Maximilian Weigand,ag_ifgeo_kemna,gres/gpu,0
+marvin,lwil_hpc,Lennart Wild,ag_ukb_kaoi_bode,gres/gpu,0
+marvin,pmaier_hpc,Paul Maier,ag_limes_schlitzer,gres/gpu,0
+marvin,s6naghar_hpc,Nadia Gharbi,ag_ifi_laehner,gres/gpu,6
+marvin,tbackhau_hpc,Teresa Backhaus,ag_iame_gaudecker,gres/gpu,0
+marvin,elandine_ext,Edgar Landinez Borda,ag_ifi_suarez,gres/gpu,0
+marvin,smerkt_hpc,Simon Merkt,ag_irumls_hasenauer,gres/gpu,0
+marvin,s6ddschw_hpc,,tmp_mattson_workshops,gres/gpu,10
+marvin,obut_hpc,Oliver But,tmp_snakemake_workshop,gres/gpu,0
+marvin,s6ulshuk_hpc,Ulvi Shukurzade,ag_bit_flek,gres/gpu,2
+marvin,s4mxsche_hpc,,tmp_mattson_workshops,gres/gpu,9
+marvin,etrunz_hpc,Elena Trunz,ag_ifi_klein,gres/gpu,1
+marvin,fohler_hpc,Leonie Fohler,ag_igsb_krawitz,gres/gpu,0
+marvin,pstahr2_hpc,,tmp_mattson_workshops,gres/gpu,7
+marvin,cbreunin_hpc,Cedric Breuning,tmp_snakemake_workshop,gres/gpu,0
+marvin,mbrasseu_ext,Marie Brasseur,tmp_snakemake_workshop,gres/gpu,0
+marvin,mgisti_hpc,Martina Gisti,tmp_mattson_workshops,gres/gpu,3
+marvin,unt150_hpc,Jens Mekelburger,ag_mctc_bredow,gres/gpu,0
+marvin,mpitz_hpc,Marion Pitz,tmp_snakemake_workshop,gres/gpu,0
+marvin,felli_ext,Francesco Elli,tmp_snakemake_workshop,gres/gpu,0
+marvin,s3majahn_hpc,Maximilian Jahn,tmp_snakemake_workshop,gres/gpu,0
+marvin,kkumar_ext,Karan Kumar,tmp_snakemake_workshop,gres/gpu,0
+marvin,s6luvomb_hpc,Luka Vomberg,tmp_snakemake_workshop,gres/gpu,0
+marvin,clatka_hpc,Catharina Latka,ag_zef_qaim,gres/gpu,0
+marvin,s62torio_hpc,Temitope Oriowo,ag_lib_zmb,gres/gpu,0
+marvin,s03kyoon_hpc,Kiana Yoon,ag_biob_weigend,gres/gpu,0
+marvin,s6luvomb_hpc,Luka Vomberg,ag_pi_desch,gres/gpu,0
+marvin,testexpy_hpc,Bobby Bogus,hrzhpc,gres/gpu,0
+marvin,pmathur_hpc,Praveer Mathur,mmtestgroup_jan,gres/gpu,0
+marvin,aermakov_hpc,Alexander Ermakov,ag_bcdh,gres/gpu,0
+marvin,rreischk_hpc,Robert Reischke,ag_aifa_nicola,gres/gpu,0
+marvin,s16tfaas_hpc,Tim-Felix Faasch,ag_igg_stachniss,gres/gpu,0
+marvin,anpott_hpc,Anna-Laura Potthoff,ag_ukb_nc_schneider,gres/gpu,0
+marvin,knausa_hpc,Alexej Knaus,ag_igsb_krawitz,gres/gpu,0
+marvin,dwondim_hpc,Dessie Salilew Wondim,ag_itw_tholen,gres/gpu,0
+marvin,jsteine1,Jan Steiner,userdef,gres/gpu,0
+marvin,laehner_hpc,Zorah Lähner,ag_ifi_laehner,gres/gpu,0
+marvin,mcfkie_hpc,Martin Clauß,ag_ifi_martini,gres/gpu,0
+marvin,s6sobind_hpc,Sophie Frechen,ag_isb_hagelueken,gres/gpu,0
+marvin,tc1108_hpc,Tim Clarner,ag_ukb_ana_clarner,gres/gpu,0
+marvin,ulg10d_hpc,Jürgen Kusche,ag_igg_kusche,gres/gpu,0
